@@ -16,4 +16,15 @@ User can write a website or generate QRs which will navigate any user to any web
 **4. Make Payments :**
 Users can write their Paytm Ids and users can scan that QRs via thier Paytm and make UPI Payments
 
+
+**Method to Install and Use:**
+
+**Step 1:** Copy the code in your local machine
+
+**Step 2:** Install react-qr-code library from npm (npm i react-qr-code)
+
+**Step 3:** Run the localhost by writing "npm run dev" in the terminal
+
+**Step 4:** Open browser and write "localhost:3000" in URL bar
+
 More updates will be coming soon!! Make sure you follow Mayank Sharma for more....
